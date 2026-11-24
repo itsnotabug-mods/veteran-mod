@@ -1,0 +1,58 @@
+VETERAN – Nutzungsbedingungen
+==============================
+
+Veteran (Skillsystem-Mod für Incursion Red River)
+Copyright (c) 2026 itsnotabug. Alle Rechte vorbehalten.
+
+Gilt für alles im Ordner "Veteran": Programmcode (Lua-Skripte), Texte, Daten und das Logo.
+
+
+ERLAUBT – ohne Nachfrage
+- Den Mod herunterladen, installieren und damit spielen.
+- Den Mod über den offiziellen Download weiterempfehlen oder verlinken.
+  Offizielle Seiten sind nur: https://github.com/itsnotabug-mods/veteran-mod und die Seite von
+  itsnotabug auf Nexus Mods.
+- Videos, Streams und Screenshots, auf denen der Mod zu sehen ist.
+
+
+NUR MIT MEINER VORHERIGEN EINWILLIGUNG
+- Den Mod verändern, anpassen oder erweitern – auch einzelne Dateien oder Teile davon.
+- Veränderte oder erweiterte Fassungen weitergeben oder veröffentlichen.
+- Den Mod oder Teile davon (Code, Texte, Daten, Logo) in anderen Mods, Paketen oder Projekten verwenden.
+- Den Mod auf anderen Seiten, in Sammlungen oder Mod-Packs hochladen oder weiterverbreiten.
+- Übersetzungen veröffentlichen.
+- Den Mod, seinen Code oder seinen Aufbau als Vorlage, Grundlage oder Ausgangspunkt für eigene Mods
+  oder Projekte verwenden – auch nicht in umgeschriebener oder nachgebauter Form.
+- Den Mod oder Teile davon in KI-Werkzeuge einspeisen, um daraus Code, Mods oder Ähnliches zu erzeugen,
+  oder damit KI-Modelle zu trainieren.
+
+Die Einwilligung muss ausdrücklich und schriftlich erteilt werden (z. B. per Nachricht auf Nexus Mods
+an itsnotabug). Eine Einwilligung gilt nur für das, wofür sie gegeben wurde. Wer eine Einwilligung
+erhält, nennt itsnotabug deutlich als Urheber und verlinkt die Original-Seite des Mods.
+
+
+GRUNDSÄTZLICH NICHT ERLAUBT
+- Den Fortschritt, den Speicherstand (Veteran.txt), das Siegel, das Raid-Protokoll oder die Export-Datei
+  zu verändern, zu fälschen oder deren Prüfung zu umgehen.
+- Test- oder Entwicklerfunktionen wieder einzuschalten oder sonst Werte zu manipulieren, um Stufen,
+  Dienstgrade, Abzeichen oder Statistiken zu erschleichen – vor allem nicht für eine Bestenliste.
+Veränderte oder unplausible Stände werden als „nicht verifiziert“ markiert und können von einer
+Bestenliste ausgeschlossen werden.
+
+
+GITHUB UND NEXUS MODS
+Das GitHub-Repository und die Nexus-Seite dienen nur dem Download. Dass GitHub technisch einen „Fork“ (eine Kopie) erlaubt,
+ist keine Einwilligung, den Mod zu verändern, zu erweitern oder weiterzugeben. Pull Requests,
+veränderte Fassungen und Abwandlungen werden nicht angenommen.
+
+
+KONTAKT
+itsnotabug – über Nexus Mods (Nachricht oder Kommentar auf der Mod-Seite).
+
+
+FREMDE BESTANDTEILE
+UE4SS (https://github.com/UE4SS-RE/RE-UE4SS), das im Komplettpaket mitgeliefert wird, ist nicht Teil
+von Veteran und steht unter seiner eigenen MIT-Lizenz (siehe _installer\UE4SS\UE4SS_LIZENZ.txt).
+Incursion Red River und alle Inhalte des Spiels gehören ihren jeweiligen Rechteinhabern.
+
+Der Mod wird ohne Gewähr bereitgestellt.
