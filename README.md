@@ -41,7 +41,9 @@ Doppelklick auf **„Veteran entfernen.bat“**. UE4SS wird nur entfernt, wenn e
 - **13 Dienstgrade** vom Rekruten bis zum Veteranen, **25 Abzeichen** (z. B. Kopfjäger, Adlerauge, Monsterjäger, Geist), K/D-Zähler
 - Ausführliche Statistik: Kopfschüsse und Kopfschuss-Quote, weitester Kill, Kills je Fraktion und Boss-Kills, Mehrfach-Kills, Schaden, durchsuchte Kisten, Strecke und vieles mehr
 - Skill-Fenster mit den Reitern **Skills · Abzeichen · Statistik** über den Button VETERAN im Inventar (oder F7), unten rechts der Button **UNTERSTÜTZEN**
-- Hinweise im Spielbild bei Stufenaufstieg und nach dem Raid
+- Hinweise im Spielbild bei Stufenaufstieg, nach dem Raid ein **Veteran-Block im Extraktions-Bildschirm** des Spiels
+- **Online-Bestenliste** auf [itsnotabug-games.com](https://www.itsnotabug-games.com/leaderboard/) – freiwillig, einmal im Reiter STATISTIK einschalten, danach gleicht sich der Mod nach jedem Raid selbst im Hintergrund ab. Der Server prüft jede Raid-Kette nach.
+- Klick- und Hover-Klänge wie in den Spielmenüs
 - **Deutsch und Englisch** – automatisch wie die Spielsprache, umschaltbar über die Flaggen im Skill-Fenster
 
 ## English
@@ -52,7 +54,7 @@ Doppelklick auf **„Veteran entfernen.bat“**. UE4SS wird nur entfernt, wenn e
 - **Install:** unzip anywhere, quit the game, double-click **„Veteran installieren.bat“** (finds the game via Steam, uses an existing UE4SS or sets up the included UE4SS 4.0.0). In the inventory, click **VETERAN** (or press F7).
 - **Update:** when the mod shows “Update available” in the hideout, quit the game and run **„Veteran aktualisieren.bat“** (download is checked with SHA-256, your progress is kept). The mod checks GitHub at most once a day and sends no personal data.
 - **Remove:** **„Veteran entfernen.bat“**.
-- **Features:** 14 skills (level 0–100), experience only on extraction, AI difficulty multiplier (Recruit ×0.75 … Elite ×1.5), 13 ranks, 25 badges, detailed statistics (headshots, longest kill, kills per faction …). The mod is in **German and English** – it follows the game language; switch with the flags in the skill window.
+- **Features:** 14 skills (level 0–100), experience only on extraction, AI difficulty multiplier (Recruit ×0.75 … Elite ×1.5), 13 ranks, 25 badges, detailed statistics (headshots, longest kill, kills per faction …). The mod is in **German and English** – it follows the game language; switch with the flags in the skill window. **Online leaderboard** at [itsnotabug-games.com](https://www.itsnotabug-games.com/leaderboard/) – optional, turn it on once in the STATISTICS tab, then the mod syncs in the background after every raid.
 - **Terms:** playing, recommending, videos and streams are welcome. Modifying, extending, re-uploading or using parts in other mods only with prior written permission from itsnotabug – see [LIZENZ.txt](LIZENZ.txt).
 
 ## Nutzung – bitte lesen
