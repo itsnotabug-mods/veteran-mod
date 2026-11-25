@@ -25,7 +25,7 @@ Auch auf **Nexus Mods:** https://www.nexusmods.com/incursionredriver/mods/371
 Gibt es eine neue Version, zeigt der Mod im Versteck den Hinweis **„Update verfügbar“**.
 Dann das Spiel beenden und **„Veteran aktualisieren.bat“** starten: Die neue Version wird von hier geladen, ihre Prüfsumme (SHA-256) kontrolliert und installiert. Dein Fortschritt bleibt erhalten.
 
-Der Mod fragt dafür höchstens einmal am Tag bei GitHub nach der neuesten Versionsnummer. Dabei werden **keine persönlichen Daten** gesendet.
+Der Mod schaut dafür einmal pro Spielsitzung über das Spiel selbst auf der Veteran-Website nach (kein Zusatzprogramm). Dabei werden **keine persönlichen Daten** gesendet.
 Wer das nicht möchte: eine leere Datei `kein_update_check.txt` in den Mod-Ordner legen.
 
 ## Entfernen
@@ -52,7 +52,7 @@ Doppelklick auf **„Veteran entfernen.bat“**. UE4SS wird nur entfernt, wenn e
 
 - **Download:** [latest release](https://github.com/itsnotabug-mods/veteran-mod/releases/latest) → `Veteran_v…_Komplettpaket.zip` · also on [Nexus Mods](https://www.nexusmods.com/incursionredriver/mods/371)
 - **Install:** unzip anywhere, quit the game, double-click **„Veteran installieren.bat“** (finds the game via Steam, uses an existing UE4SS or sets up the included UE4SS 4.0.0). In the inventory, click **VETERAN** (or press F7).
-- **Update:** when the mod shows “Update available” in the hideout, quit the game and run **„Veteran aktualisieren.bat“** (download is checked with SHA-256, your progress is kept). The mod checks GitHub at most once a day and sends no personal data.
+- **Update:** when the mod shows “Update available” in the hideout, quit the game and run **„Veteran aktualisieren.bat“** (download is checked with SHA-256, your progress is kept). The mod checks the Veteran website once per game session through the game itself (no extra program) and sends no personal data.
 - **Remove:** **„Veteran entfernen.bat“**.
 - **Features:** 14 skills (level 0–100), experience only on extraction, AI difficulty multiplier (Recruit ×0.75 … Elite ×1.5), 13 ranks, 25 badges, detailed statistics (headshots, longest kill, kills per faction …). The mod is in **German and English** – it follows the game language; switch with the flags in the skill window. **Online leaderboard** at [itsnotabug-games.com](https://www.itsnotabug-games.com/leaderboard/) – optional, turn it on once in the STATISTICS tab, then the mod syncs in the background after every raid.
 - **Terms:** playing, recommending, videos and streams are welcome. Modifying, extending, re-uploading or using parts in other mods only with prior written permission from itsnotabug – see [LIZENZ.txt](LIZENZ.txt).
